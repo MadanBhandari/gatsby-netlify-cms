@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Test Title
+title: New Title
 date: '2018-09-06T17:23:36+05:30'
 description: >-
   This is just a simple test post. This is just a simple test post. This is just
